@@ -1,3 +1,7 @@
 kitchen room
 
+<<<<<<< HEAD
 cut
+=======
+bow
+>>>>>>> huyentrang
